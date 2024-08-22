@@ -1,0 +1,13 @@
+{
+  "$schema": "",
+  "name": "migration-recipe",
+  "version": "1.0.0",
+  "engine": "recipe",
+  "private": false,
+  "arguments": [],
+  "meta": {},
+  "names": [
+    "use-strict",
+    "no-vars"
+  ]
+}
